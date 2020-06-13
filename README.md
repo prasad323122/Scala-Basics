@@ -21,13 +21,13 @@ Think “switch” on steroids. Match against class hierarchies, sequences, and 
 HIGHER-ORDER FUNCTIONS
 Functions are first-class objects. Compose them with guaranteed type safety. Use them anywhere, pass them to anything.
 
-Ide's To Run SCALA
-1.IntelliJ IDEA
-2.VS Code
-3.GNU Emacs
-4.Vim
-5.Sublime Text
-6.Atom
+Ide's To Run SCALA                                                                                                                     
+  1.IntelliJ IDEA                                                                                                                       
+  2.VS Code                                                                                                                             
+  3.GNU Emacs                                                                                                                           
+  4.Vim                                                                                                                                 
+  5.Sublime Text                                                                                                                       
+  6.Atom                                                                                                                               
 
-You can download Scala at:
+You can download Scala at :                                                                                                             
 https://scala-lang.org/download/
